@@ -5,6 +5,7 @@ import multitasking
 import signal
 from retry import retry
 import os
+import urllib
 print("[INFO] QDownload v1.1 initiates...")
 print("[INFO] Preparing download engines...")
 print("[INFO] Initited engines:\n (1) NORMAL DOWNLOAD\n (2) CHUNK DOWNLOAD\n (3) GHPROXY\n (4) ANDROID-FILE-HOST\n")
