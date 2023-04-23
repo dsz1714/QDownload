@@ -1,18 +1,14 @@
 # QDownload
-Quick downloader for debian-based linux systems. Using python3. Requirements: requests, tqdm, multitasking.
 
 # Description 描述:
-Quick downloader for Debian-based linux systems.
+Quick downloader for debian-based linux systems.
 专为基于Debian的Linux系统打造的快速下载器。
 
 Using python3.
 使用python3搭建。
 
-Requirements: requests, tqdm, multitasking
-依赖模块：requests，tqdm，multitasking
-
-You can also get QDownload at https://gitee.com/dsz1714/qdownload
-你也可以在https://gitee.com/dsz1714/qdownload 下载QDownload.
+Requirements: requests, tqdm, multitasking, urllib3, retry
+依赖模块：requests，tqdm，multitasking, urllib3, retry
 
 # Program runtime 运行环境:
 基于Debian的Linux系统，并安装了python3.7或以上版本。
